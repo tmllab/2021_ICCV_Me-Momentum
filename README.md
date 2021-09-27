@@ -43,7 +43,7 @@ If you find the code useful in your research, please consider citing our paper:
 
 <pre>
 @inproceedings{
-    bai2020me_momentum,
+    bai2021memomentum,
     title={Me-Momentum: Extracting Hard Confident Examples from Noisily Labeled Data},
     author={Yingbin Bai and Tongliang Liu},
     booktitle={ICCV},
